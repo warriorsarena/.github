@@ -1,4 +1,4 @@
-![Warrior's Arena Banner](warriors-arena-banner.jpg)
+![Warrior's Arena Logo](warriors-arena-logo.png)
 
 # Warrior's Arena
 
